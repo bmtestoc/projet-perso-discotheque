@@ -12,7 +12,7 @@ Il est situé à l'adresse https://github.com/bmtestoc/Projet-perso
 2/ Démarrer le service MySQL
 
 3/ Création de la base de données  
-Nom de la bdd : discotheque
+Nom de la bdd : discotheque  
 Nom de la table : liste
 4 champs : id (autoincrement) / artist (varchar 255) / title (varchar 255) / format (varchar 255) 
 
