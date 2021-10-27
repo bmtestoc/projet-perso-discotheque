@@ -1,0 +1,13 @@
+.updFormulaire {
+    margin: 20px;
+}
+
+.crtFormulaire {
+    margin: 20px;
+}
+
+label {
+    margin-bottom: 20px;
+    display: block;
+    width: 150px;
+}
