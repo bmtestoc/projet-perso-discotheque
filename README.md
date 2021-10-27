@@ -6,7 +6,7 @@ Bootstrap
 Prérequis  
 Installer Apache, PHP et MySQL sur la machine (WAMP pour windows ou LAMP pour Linux).
 
-1/ Cloner le repository GitHub 
+1/ Cloner le repository GitHub  
 Il est situé à l'adresse https://github.com/bmtestoc/Projet-perso
 
 2/ Démarrer le service MySQL
